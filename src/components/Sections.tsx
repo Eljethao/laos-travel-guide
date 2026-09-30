@@ -262,7 +262,7 @@ export function Footer() {
             </p>
             <p className="muted">
               {t(ui.footer.builtBy)}{' '}
-              <a href="/" rel="author">
+              <a href="https://ljthao.com" rel="author">
                 Chouayeethao Cherching
               </a>{' '}
               {t(ui.footer.with)}
