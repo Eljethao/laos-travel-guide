@@ -14,8 +14,8 @@ export const ui = {
 
   hero: {
     eyebrow: { en: 'Sabaidee — welcome to Laos', lo: 'ສະບາຍດີ — ຍິນດີຕ້ອນຮັບສູ່ ສປປ ລາວ' },
-    title1: { en: 'Discover the', lo: 'ຄົ້ນພົບ' },
-    title2: { en: 'Land of a Million Elephants', lo: 'ດິນແດນສວຍງາມຮັ່ງມີໄປດ້ວຍທຳມະຊາດ' },
+    title1: { en: 'Discover a', lo: 'ຄົ້ນພົບ' },
+    title2: { en: 'Beautiful Land Rich in Nature', lo: 'ດິນແດນສວຍງາມຮັ່ງມີໄປດ້ວຍທຳມະຊາດ' },
     lead: {
       en: 'Golden temples, turquoise waterfalls, slow river journeys and mountain villages — everything you need to plan your trip, on one interactive map.',
       lo: 'ວັດວາອາຮາມສີທອງ, ນ້ຳຕົກສີຟ້າຄາມ, ການລ່ອງເຮືອ ແລະ ບ້ານເທິງພູ — ທຸກຢ່າງທີ່ທ່ານຕ້ອງການ ເພື່ອວາງແຜນການເດີນທາງ ຢູ່ໃນແຜນທີ່ດຽວ.',
